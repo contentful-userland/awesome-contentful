@@ -27,6 +27,9 @@ These third-party libraries and SDKs are not official Contentful tools and may 
 * [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
 * [ContentfulModel][4], a Ruby gem which helps accessing Contentful like a local data model.
 
+## Contributing
+[See the guide](CONTRIBUTING.md)
+
 
 [1]: https://github.com/jsebfranck/contentful-publication
 [2]: https://github.com/carrot/roots-contentful
