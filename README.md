@@ -1,6 +1,6 @@
 ![Contentful Logo](logo.png)
 
-These third-party libraries and SDKs are not official Contentful tools and may be outdated.
+These third-party libraries and SDKs are not official Contentful tools and may be incomplete . We are 
 
 ## SDKs
 
@@ -22,7 +22,7 @@ These third-party libraries and SDKs are not official Contentful tools and may 
 * Johnproctor - [Contentful demo using Knockout][38]
 * Jurgen Van de Moere - [AngularJS integration][40]
 * IDEO - [Ember Integration][41]
-* [Space synchronization][1], a Node.js script which copies data from one content space to another.
+* [contentful-publication][1], a node CLI tool to for synchronizing content between spaces.
 * [Roots][2], use Roots, a static site generator, and manage content with Contentful.
 * [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
 * [ContentfulModel][4], a Ruby gem which helps accessing Contentful like a local data model.
