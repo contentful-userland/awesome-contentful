@@ -1,6 +1,6 @@
 ![Contentful Logo](logo.png)
 
-These third-party libraries and SDKs are not official Contentful tools and may be incomplete . We are 
+These third-party libraries and SDKs are not official Contentful tools and may be incomplete. 
 
 ## SDKs
 
