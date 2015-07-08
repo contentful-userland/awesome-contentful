@@ -1,6 +1,10 @@
 ![Contentful Logo](logo.png)
 
-These third-party libraries and SDKs are not official Contentful tools and may be incomplete. 
+Contentful is a content delivery backend with a RESTful JSON API, plus a web app for managing the content. Learn more in our [developer center](https://www.contentful.com/developers/docs/).
+
+This repo collects third-party libraries and SDKs for working with Contentful. Contentful also ships supported [offical SDKs](https://www.contentful.com/developers/docs/code/libraries/) for many languages including Ruby, JavaScript, Python, Objective-C and Java.
+
+These third-party libraries and SDKs are not officially supported by Contentful and may be incomplete, but we've at least tried them out. If you want to include your own libraries on this list open a pull request that matches our [contribution guidelines](CONTRIBUTING.md)
 
 ## SDKs
 
