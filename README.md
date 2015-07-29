@@ -31,6 +31,10 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
 * [ContentfulModel][4], a Ruby gem which helps accessing Contentful like a local data model.
 
+## Gists
+
+* [How to parse JSON from Contentful webhook responses with contentful.rb](https://gist.github.com/neonichu/17a987aeeb256d4bf6f3)
+
 ## Contributing
 [See the guide](CONTRIBUTING.md)
 
