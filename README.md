@@ -34,6 +34,8 @@ These third-party libraries and SDKs are not officially supported by Contentful
 ## Gists
 
 * [How to parse JSON from Contentful webhook responses with contentful.rb](https://gist.github.com/neonichu/17a987aeeb256d4bf6f3)
+* [How to clean up unused assets with the CMA](https://gist.github.com/grncdr/afc97da1869f5fb3aef1)
+* [How to import CSV files with the CMA](https://gist.github.com/grncdr/9458c230ac838d73a559)
 
 ## Contributing
 [See the guide](CONTRIBUTING.md)
