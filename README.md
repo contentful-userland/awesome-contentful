@@ -30,6 +30,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [Roots][2], use Roots, a static site generator, and manage content with Contentful.
 * [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
 * [ContentfulModel][4], a Ruby gem which helps accessing Contentful like a local data model.
+* [jekyll-contentful][40], a plugin for Jekyll, a static site generator
 
 ## Gists
 
@@ -60,3 +61,4 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [33]: https://github.com/ryan-codingintrigue/Contentful.NET
 [34]: https://github.com/mrappweareratio/Contentful.SDK
 [39]: https://github.com/incraigulous/contentful-sdk
+[40]: https://github.com/dommmel/jekyll-contentful
