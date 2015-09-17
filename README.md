@@ -24,7 +24,9 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Jcreixell - [RSS Proxy for Contentful's Sync API][36]
 * Zackiles - [Contentful Node Dashboard][37]
 * Johnproctor - [Contentful demo using Knockout][38]
-* Jurgen Van de Moere - [AngularJS integration][40]
+* Jurgen Van de Moere - [angular-contentful][angular-contentful], an AngularJS library to access the Contentful Content Delivery API
+* Jurgen Van de Moere - [contentful-agent][contentful-agent], a node module to easily fetch entries from a Contentful space
+* Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
 * IDEO - [Ember Integration][41]
 * [contentful-publication][1], a node CLI tool to for synchronizing content between spaces.
 * [Roots][2], use Roots, a static site generator, and manage content with Contentful.
@@ -62,3 +64,6 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [34]: https://github.com/mrappweareratio/Contentful.SDK
 [39]: https://github.com/incraigulous/contentful-sdk
 [40]: https://github.com/dommmel/jekyll-contentful
+[angular-contentful]: https://github.com/jvandemo/angular-contentful
+[contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
+[contentful-agent]: https://github.com/jvandemo/contentful-agent
