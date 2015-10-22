@@ -22,6 +22,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Dothiv - [PHP Symfony ContentfulBundle][31]
 * IDEO - [Ember Integration][41]
 * [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
+* Jurgen Van de Moere - [angular-contentful][angular-contentful], an AngularJS library to access the Contentful Content Delivery API
 
 ## Static Site Generators
 
@@ -33,7 +34,6 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Mohamagdy - [Contentful-RSS][35]
 * Jcreixell - [RSS Proxy for Contentful's Sync API][36]
 * Zackiles - [Contentful Node Dashboard][37]
-* Jurgen Van de Moere - [angular-contentful][angular-contentful], an AngularJS library to access the Contentful Content Delivery API
 * Jurgen Van de Moere - [contentful-agent][contentful-agent], a node module to easily fetch entries from a Contentful space
 * Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
 * [contentful-publication][1], a node CLI tool to for synchronizing content between spaces.
