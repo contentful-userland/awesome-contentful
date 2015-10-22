@@ -37,6 +37,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Jurgen Van de Moere - [contentful-agent][contentful-agent], a node module to easily fetch entries from a Contentful space
 * Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
 * [contentful-publication][1], a node CLI tool to for synchronizing content between spaces.
+* [contentful-static][contentful-static] - Simple static site generator backed by the Contentful Sync API.
 
 ## Other useful libraries
 
@@ -76,3 +77,4 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [angular-contentful]: https://github.com/jvandemo/angular-contentful
 [contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
 [contentful-agent]: https://github.com/jvandemo/contentful-agent
+[contentful-static]: https://github.com/Textalk/contentful-static
