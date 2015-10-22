@@ -16,26 +16,35 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * ryan-codingintrigue - [C# SDK for the Contentful Delivery API][33]
 * Mrappweareratio - [.NET PCL for Contentful][34]
 
-## Tools
+## Framework Integrations
 
 * Usemarkup - [PHP Symfony2 Bundle][28]
 * Dothiv - [PHP Symfony ContentfulBundle][31]
+* IDEO - [Ember Integration][41]
+* [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
+
+## Static Site Generators
+
+* [jekyll-contentful][40], a plugin for Jekyll, a static site generator
+* [Roots][2], use Roots, a static site generator, and manage content with Contentful.
+
+## Standalone Tools
+
 * Mohamagdy - [Contentful-RSS][35]
 * Jcreixell - [RSS Proxy for Contentful's Sync API][36]
 * Zackiles - [Contentful Node Dashboard][37]
-* Johnproctor - [Contentful demo using Knockout][38]
 * Jurgen Van de Moere - [angular-contentful][angular-contentful], an AngularJS library to access the Contentful Content Delivery API
 * Jurgen Van de Moere - [contentful-agent][contentful-agent], a node module to easily fetch entries from a Contentful space
 * Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
-* IDEO - [Ember Integration][41]
 * [contentful-publication][1], a node CLI tool to for synchronizing content between spaces.
-* [Roots][2], use Roots, a static site generator, and manage content with Contentful.
-* [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
+
+## Other useful libraries
+
 * [ContentfulModel][4], a Ruby gem which helps accessing Contentful like a local data model.
-* [jekyll-contentful][40], a plugin for Jekyll, a static site generator
 
-## Gists
+## Example Projects & Gists
 
+* Johnproctor - [Contentful demo using Knockout][38]
 * [How to parse JSON from Contentful webhook responses with contentful.rb](https://gist.github.com/neonichu/17a987aeeb256d4bf6f3)
 * [How to clean up unused assets with the CMA](https://gist.github.com/grncdr/afc97da1869f5fb3aef1)
 * [How to import CSV files with the CMA](https://gist.github.com/grncdr/9458c230ac838d73a559)
