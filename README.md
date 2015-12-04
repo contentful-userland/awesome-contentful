@@ -28,6 +28,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 
 * [jekyll-contentful][40], a plugin for Jekyll, a static site generator
 * [Roots][2], use Roots, a static site generator, and manage content with Contentful.
+* [contentful-static][contentful-static] - Simple static site generator backed by the Contentful Sync API.
 
 ## Standalone Tools
 
@@ -37,7 +38,6 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Jurgen Van de Moere - [contentful-agent][contentful-agent], a node module to easily fetch entries from a Contentful space
 * Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
 * [contentful-publication][1], a node CLI tool to for synchronizing content between spaces.
-* [contentful-static][contentful-static] - Simple static site generator backed by the Contentful Sync API.
 
 ## Other useful libraries
 
