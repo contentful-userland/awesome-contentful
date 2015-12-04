@@ -37,7 +37,6 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Zackiles - [Contentful Node Dashboard][37]
 * Jurgen Van de Moere - [contentful-agent][contentful-agent], a node module to easily fetch entries from a Contentful space
 * Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
-* [contentful-publication][1], a node CLI tool to for synchronizing content between spaces.
 
 ## Other useful libraries
 
@@ -53,8 +52,6 @@ These third-party libraries and SDKs are not officially supported by Contentful
 ## Contributing
 [See the guide](CONTRIBUTING.md)
 
-
-[1]: https://github.com/jsebfranck/contentful-publication
 [2]: https://github.com/carrot/roots-contentful
 [3]: https://github.com/errorstudio/contentful_rails
 [4]: https://github.com/errorstudio/contentful_model
