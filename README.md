@@ -41,6 +41,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 ## Other useful libraries
 
 * [ContentfulModel][4], a Ruby gem which helps accessing Contentful like a local data model.
+* [slack-contentful][https://github.com/brh55/slack-contentful] - See when entries have been published on a Slack channel.
 
 ## Example Projects & Gists
 
