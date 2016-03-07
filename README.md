@@ -29,6 +29,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [jekyll-contentful][40], a plugin for Jekyll, a static site generator
 * [Roots][2], use Roots, a static site generator, and manage content with Contentful.
 * [contentful-static][contentful-static] - Simple static site generator backed by the Contentful Sync API.
+* [gulp-metalsmith][gulp-metalsmith] - Metalsmith + gulp static site tool. Tutorial includes a sample Contentful integration.
 
 ## Standalone Tools
 
@@ -76,3 +77,4 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
 [contentful-agent]: https://github.com/jvandemo/contentful-agent
 [contentful-static]: https://github.com/Textalk/contentful-static
+[gulp-metalsmith]: https://github.com/jelz/gulp-metalsmith/tree/master/tutorial
