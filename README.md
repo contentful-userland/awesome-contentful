@@ -15,6 +15,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Incraigulous - [PHP SDK][39]
 * ryan-codingintrigue - [C# SDK for the Contentful Delivery API][33]
 * Mrappweareratio - [.NET PCL for Contentful][34]
+* Python - [Python Content Delivery API Library][41]
 
 ## Framework Integrations
 
@@ -73,6 +74,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [34]: https://github.com/mrappweareratio/Contentful.SDK
 [39]: https://github.com/incraigulous/contentful-sdk
 [40]: https://github.com/dommmel/jekyll-contentful
+[41]: https://github.com/contentful-labs/contentful.py
 [angular-contentful]: https://github.com/jvandemo/angular-contentful
 [contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
 [contentful-agent]: https://github.com/jvandemo/contentful-agent
