@@ -48,7 +48,6 @@ These third-party libraries and SDKs are not officially supported by Contentful
 
 ## Example Projects & Gists
 
-* Johnproctor - [Contentful demo using Knockout][38]
 * [How to parse JSON from Contentful webhook responses with contentful.rb](https://gist.github.com/neonichu/17a987aeeb256d4bf6f3)
 * [How to clean up unused assets with the CMA](https://gist.github.com/grncdr/afc97da1869f5fb3aef1)
 * [How to import CSV files with the CMA](https://gist.github.com/grncdr/9458c230ac838d73a559)
@@ -64,7 +63,6 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [35]: https://github.com/mohamagdy/contentful-rss
 [36]: https://github.com/jcreixell/contentful-sync-rss
 [37]: https://github.com/zackiles/contentful-node-dashboard
-[38]: https://github.com/johnproctor/ContentOut
 [40]: https://github.com/jvandemo/angular-contentful
 [41]: https://github.com/ideo/ember-contentful/
 [27]: https://github.com/usemarkup/contentful
