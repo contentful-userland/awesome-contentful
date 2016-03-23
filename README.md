@@ -24,6 +24,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * IDEO - [Ember Integration][41]
 * [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
 * Jurgen Van de Moere - [angular-contentful][angular-contentful], an AngularJS library to access the Contentful Content Delivery API
+* David Pett - [ember-data-contentful](https://github.com/davidpett/ember-data-contentful), an adapter for Ember Data.
 
 ## Static Site Generators
 
