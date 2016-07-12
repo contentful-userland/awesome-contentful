@@ -19,7 +19,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Python - [Python Content Delivery API Library][41]
 
 ## Framework Integrations
-
+* Ember - [Ember Contentful Delivery Adapter][42]
 * Usemarkup - [PHP Symfony2 Bundle][28]
 * Dothiv - [PHP Symfony ContentfulBundle][31]
 * IDEO - [Ember Integration][41]
@@ -33,6 +33,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [Roots][2], use Roots, a static site generator, and manage content with Contentful.
 * [contentful-static][contentful-static] - Simple static site generator backed by the Contentful Sync API.
 * [gulp-metalsmith][gulp-metalsmith] - Metalsmith + gulp static site tool. Tutorial includes a sample Contentful integration.
+* [Spike Contentful][43] - A standard webpack plugin, that is intended to be used with spike.
 
 ## Standalone Tools
 
@@ -75,6 +76,8 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [39]: https://github.com/incraigulous/contentful-sdk
 [40]: https://github.com/dommmel/jekyll-contentful
 [41]: https://github.com/contentful-labs/contentful.py
+[42]: https://github.com/BondarenkoAlex/ember-contentful-delivery-adapter
+[43]: https://github.com/Streenjw/spike-contentful
 [angular-contentful]: https://github.com/jvandemo/angular-contentful
 [contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
 [contentful-agent]: https://github.com/jvandemo/contentful-agent
