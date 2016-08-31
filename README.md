@@ -42,6 +42,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Zackiles - [Contentful Node Dashboard][37]
 * Jurgen Van de Moere - [contentful-agent][contentful-agent], a node module to easily fetch entries from a Contentful space
 * Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
+* Deane Barker - [contentful-webhook-server][38], a server framework in C# to handle Contentful HTTP webhooks
 
 ## Other useful libraries
 
@@ -73,6 +74,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [32]: https://github.com/doorhinge/contentful-client
 [33]: https://github.com/ryan-codingintrigue/Contentful.NET
 [34]: https://github.com/mrappweareratio/Contentful.SDK
+[38]: https://github.com/deanebarker/contentful-webhook-server
 [39]: https://github.com/incraigulous/contentful-sdk
 [40]: https://github.com/dommmel/jekyll-contentful
 [41]: https://github.com/contentful-labs/contentful.py
