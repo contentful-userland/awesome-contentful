@@ -44,6 +44,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Jurgen Van de Moere - [contentful-agent][contentful-agent], a node module to easily fetch entries from a Contentful space
 * Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
 * Deane Barker - [contentful-webhook-server][38], a server framework in C# to handle Contentful HTTP webhooks
+* [mc.uploader][45] A tool to upload markdown files with frontmatter to contentful
 
 ## Other useful libraries
 
@@ -82,6 +83,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [42]: https://github.com/BondarenkoAlex/ember-contentful-delivery-adapter
 [43]: https://github.com/Streenjw/spike-contentful
 [44]: https://www.npmjs.com/package/stacy
+[45]: https://github.com/rainforestapp/mc.uploader
 [angular-contentful]: https://github.com/jvandemo/angular-contentful
 [contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
 [contentful-agent]: https://github.com/jvandemo/contentful-agent
