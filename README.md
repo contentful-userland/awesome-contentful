@@ -34,6 +34,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [contentful-static][contentful-static] - Simple static site generator backed by the Contentful Sync API.
 * [gulp-metalsmith][gulp-metalsmith] - Metalsmith + gulp static site tool. Tutorial includes a sample Contentful integration.
 * [Spike Contentful][43] - A standard webpack plugin, that is intended to be used with spike.
+* [Stacy][44] - Use Contentful to manage websites hosted at Amazon S3.
 
 ## Standalone Tools
 
@@ -80,6 +81,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [41]: https://github.com/contentful-labs/contentful.py
 [42]: https://github.com/BondarenkoAlex/ember-contentful-delivery-adapter
 [43]: https://github.com/Streenjw/spike-contentful
+[44]: https://www.npmjs.com/package/stacy
 [angular-contentful]: https://github.com/jvandemo/angular-contentful
 [contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
 [contentful-agent]: https://github.com/jvandemo/contentful-agent
