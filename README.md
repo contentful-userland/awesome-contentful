@@ -49,6 +49,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 
 * [ContentfulModel][4], a Ruby gem which helps accessing Contentful like a local data model.
 * [slack-contentful](https://github.com/brh55/slack-contentful) - See when entries have been published on a Slack channel.
+* [Marky Mark][46](https://github.com/M2Mobi/Marky-Mark), a Markdown parser for iOS with specific support for the Markdown features supported by Contentful.
 
 ## Example Projects & Gists
 
@@ -82,6 +83,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [42]: https://github.com/BondarenkoAlex/ember-contentful-delivery-adapter
 [43]: https://github.com/Streenjw/spike-contentful
 [44]: https://www.npmjs.com/package/stacy
+[46]: https://github.com/M2Mobi/Marky-Mark
 [angular-contentful]: https://github.com/jvandemo/angular-contentful
 [contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
 [contentful-agent]: https://github.com/jvandemo/contentful-agent
