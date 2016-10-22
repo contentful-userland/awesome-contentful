@@ -36,6 +36,10 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [Spike Contentful][43] - A standard webpack plugin, that is intended to be used with spike.
 * [Stacy][44] - Use Contentful to manage websites hosted at Amazon S3.
 
+## UI Extensions
+
+* [Spotify search extension][47] - an auto-complete search for Spotify
+
 ## Standalone Tools
 
 * Mohamagdy - [Contentful-RSS][35]
@@ -86,6 +90,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [44]: https://www.npmjs.com/package/stacy
 [45]: https://github.com/rainforestapp/mc.uploader
 [46]: https://github.com/M2Mobi/Marky-Mark
+[47]: https://github.com/tuunanen/cf-ui-ext-spotify
 [angular-contentful]: https://github.com/jvandemo/angular-contentful
 [contentful-webhook-server]: https://github.com/jvandemo/contentful-webhook-server
 [contentful-agent]: https://github.com/jvandemo/contentful-agent
