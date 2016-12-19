@@ -49,6 +49,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * Jurgen Van de Moere - [contentful-webhook-server][contentful-webhook-server], a lightweight server to handle Contentful webhook HTTP requests
 * Deane Barker - [contentful-webhook-server][38], a server framework in C# to handle Contentful HTTP webhooks
 * [mc.uploader][45] A tool to upload markdown files with frontmatter to contentful
+* [contentful-emails][48] A tool using Contentful to fastly build a coding-free tool for emails' content management.
 
 ## Other useful libraries
 
@@ -97,3 +98,4 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [contentful-static]: https://github.com/Textalk/contentful-static
 [gulp-metalsmith]: https://github.com/jelz/gulp-metalsmith/tree/master/tutorial
 [contentpull]: https://github.com/remedyhealth/contentpull
+[48]: https://github.com/bandraszyk/contentful-emails
