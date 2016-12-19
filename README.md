@@ -52,6 +52,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 
 ## Other useful libraries
 
+* [Contentfaux](https://github.com/remedyhealth/contentfaux) - Stub Contentful requests to simplify unit testing.
 * [ContentfulModel][4], a Ruby gem which helps accessing Contentful like a local data model.
 * [slack-contentful](https://github.com/brh55/slack-contentful) - See when entries have been published on a Slack channel.
 * [Marky Mark][46](https://github.com/M2Mobi/Marky-Mark), a Markdown parser for iOS with specific support for the Markdown features supported by Contentful.
