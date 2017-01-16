@@ -26,6 +26,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [Contentful Rails][3], a Ruby gem which enables integrating Contentful with Rails apps.
 * Jurgen Van de Moere - [angular-contentful][angular-contentful], an AngularJS library to access the Contentful Content Delivery API
 * David Pett - [ember-data-contentful](https://github.com/davidpett/ember-data-contentful), an adapter for Ember Data.
+* [Contentful to algolia][contentful-to-algolia], Transmit content from any Contentful type to Algolia indexes
 
 ## Static Site Generators
 
@@ -102,3 +103,4 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [contentpull]: https://github.com/remedyhealth/contentpull
 [48]: https://github.com/bandraszyk/contentful-emails
 [contentful-proxy]: https://github.com/felixjung/contentful-proxy 
+[contentful-to-algolia]: https://github.com/drublic/contentful-to-algolia
