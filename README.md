@@ -52,6 +52,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [mc.uploader][45] - A tool to upload markdown files with frontmatter to contentful
 * [contentful-emails][48] - A tool using Contentful to fastly build a coding-free tool for emails' content management.
 * [contentful-proxy][contentful-proxy] - An authentication and caching proxy for the Content Delivery API written in Node.js using [Zeit.co's micro](https://github.com/zeit/micro).
+* [contentful-utils][contentful-utils] - A CLI tool helping you with common content modeling tasks.
 
 ## Other useful libraries
 
@@ -103,4 +104,5 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [contentpull]: https://github.com/remedyhealth/contentpull
 [48]: https://github.com/bandraszyk/contentful-emails
 [contentful-proxy]: https://github.com/felixjung/contentful-proxy 
+[contentful-utils]: https://github.com/felixjung/contentful-utils
 [contentful-to-algolia]: https://github.com/drublic/contentful-to-algolia
