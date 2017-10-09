@@ -53,6 +53,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * [contentful-emails][48] - A tool using Contentful to fastly build a coding-free tool for emails' content management.
 * [contentful-proxy][contentful-proxy] - An authentication and caching proxy for the Content Delivery API written in Node.js using [Zeit.co's micro](https://github.com/zeit/micro).
 * [contentful-utils][contentful-utils] - A CLI tool helping you with common content modeling tasks.
+* [migration-cli][migration-cli]: Official CLI tool for describing and executing changes to your content model.
 
 ## Other useful libraries
 
@@ -106,3 +107,4 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [contentful-proxy]: https://github.com/felixjung/contentful-proxy 
 [contentful-utils]: https://github.com/felixjung/contentful-utils
 [contentful-to-algolia]: https://github.com/drublic/contentful-to-algolia
+[migration-cli]: https://github.com/contentful/migration-cli
