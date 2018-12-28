@@ -40,6 +40,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 ## UI Extensions
 
 * [Spotify search extension][47] - an auto-complete search for Spotify
+* [Key Value Editor][contentful-key-value-editor] - A form for adding key value pairs with an optional type dropdown to an object field.
 
 ## Standalone Tools
 
@@ -106,3 +107,4 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [contentful-proxy]: https://github.com/felixjung/contentful-proxy 
 [contentful-utils]: https://github.com/felixjung/contentful-utils
 [contentful-to-algolia]: https://github.com/drublic/contentful-to-algolia
+[contentful-key-value-editor]: https://github.com/lukasoppermann/contentful-key-value-editor
