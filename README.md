@@ -17,6 +17,7 @@ These third-party libraries and SDKs are not officially supported by Contentful
 * ryan-codingintrigue - [C# SDK for the Contentful Delivery API][33]
 * Mrappweareratio - [.NET PCL for Contentful][34]
 * Python - [Python Content Delivery API Library][41]
+* Dart - [Dart Contentful API Library][dart-contentful], a Dart (including Flutter) library to access the Contentful Delivery API.
 
 ## Framework Integrations
 * Ember - [Ember Contentful Delivery Adapter][42]
@@ -106,3 +107,4 @@ These third-party libraries and SDKs are not officially supported by Contentful
 [contentful-proxy]: https://github.com/felixjung/contentful-proxy 
 [contentful-utils]: https://github.com/felixjung/contentful-utils
 [contentful-to-algolia]: https://github.com/drublic/contentful-to-algolia
+[dart-contentful]: https://pub.dev/packages/contentful
