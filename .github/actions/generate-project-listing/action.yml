@@ -1,0 +1,19 @@
+name: "Generate Project Listing"
+description: "Fetch data about Contentful Projects"
+inputs:
+  repo_token:
+    description: "The GITHUB_TOKEN secret"
+runs:
+  using: "composite"
+  steps:
+    - name: Install
+      run: npm install
+      shell: bash
+
+    - name: Fetch data and write readme
+      run: GITHUB_TOKEN=${{ inputs.repo_token }} node $GITHUB_ACTION_PATH/index.js
+      shell: bash
+
+    - name: Commit changes
+      run: $GITHUB_ACTION_PATH/commit.sh
+      shell: bash

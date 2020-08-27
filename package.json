@@ -1,0 +1,24 @@
+{
+  "name": "awesome-contentful",
+  "version": "1.0.0",
+  "description": "![Contentful Logo](logo.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentful-userland/awesome-contentful.git"
+  },
+  "keywords": [],
+  "author": "stefan judis <stefanjudis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/contentful-userland/awesome-contentful/issues"
+  },
+  "homepage": "https://github.com/contentful-userland/awesome-contentful#readme",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "got": "^11.5.2"
+  }
+}
