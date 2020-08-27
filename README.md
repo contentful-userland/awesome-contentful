@@ -14,6 +14,16 @@ You want to contribute a project to share it with the community? That's great! P
 
 <!-- AWESOME_THINGS -->
 
+## Awesome Apps
+
+### [Contentful App to integrate GraphQL Playground](https://github.com/stefanjudis/contentful-graphql-playground-app) (4 stars, 0 issues)
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/stefanjudis/contentful-graphql-playground-app/raw/main/screenshot.png">
+</p>
+</details>
+
 <!-- AWESOME_THINGS_END -->
 
 ## Code of Conduct
