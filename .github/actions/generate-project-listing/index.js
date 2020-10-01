@@ -24,10 +24,6 @@ function getQuery(items) {
               totalCount
             }
 
-            issues {
-              totalCount
-            }
-
             defaultBranchRef {
               name
             }
@@ -65,15 +61,9 @@ async function getGeneratedReadme(data) {
 
           ${Object.values(data)
             .map(
-              ({
-                nameWithOwner,
-                defaultBranchRef,
-                description,
-                stargazers,
-                issues,
-              }) =>
+              ({ nameWithOwner, defaultBranchRef, description, stargazers }) =>
                 stripIndent`
-                  ### [${description}](https://github.com/${nameWithOwner}) (${stargazers.totalCount} stars, ${issues.totalCount} issues)
+                  ### [${description}](https://github.com/${nameWithOwner}) (${stargazers.totalCount} stars)
                   <details>
                     <summary>Show screenshot</summary>
                     <p>
