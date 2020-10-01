@@ -1,6 +1,9 @@
 [
   {
     "title": "Awesome Apps",
-    "items": ["stefanjudis/contentful-graphql-playground-app"]
+    "items": [
+      "stefanjudis/contentful-graphql-playground-app",
+      "yn5/webhook-contentful-app"
+    ]
   }
 ]
