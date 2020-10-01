@@ -81,7 +81,7 @@ async function getGeneratedReadme(data) {
                     </p>
                   </details>`
             )
-            .join("\n")}`
+            .join("\n\n")}`
       ),
       "<!-- AWESOME_THINGS_END -->",
     ].join("\n\n")
