@@ -16,7 +16,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## Awesome Apps
 
-### [Contentful App to integrate GraphQL Playground](https://github.com/stefanjudis/contentful-graphql-playground-app) (10 stars)
+### [Contentful App to integrate GraphQL Playground](https://github.com/stefanjudis/contentful-graphql-playground-app) (11 stars)
 <details>
 <summary>Show screenshot</summary>
 <p>
@@ -24,7 +24,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-### [A Contentful app extension to trigger one or multiple webhooks from the sidebar.](https://github.com/yn5/webhook-contentful-app) (4 stars)
+### [A Contentful app extension to trigger one or multiple webhooks from the sidebar.](https://github.com/yn5/webhook-contentful-app) (5 stars)
 <details>
 <summary>Show screenshot</summary>
 <p>
