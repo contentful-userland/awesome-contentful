@@ -5,5 +5,9 @@
       "stefanjudis/contentful-graphql-playground-app",
       "yn5/webhook-contentful-app"
     ]
+  },
+  {
+    "title": "Awesome starters",
+    "items": ["whitep4nth3r/thingoftheday"]
   }
 ]

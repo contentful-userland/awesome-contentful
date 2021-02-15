@@ -63,7 +63,10 @@ async function getGeneratedReadme(data) {
             .map(
               ({ nameWithOwner, defaultBranchRef, description, stargazers }) =>
                 stripIndent`
-                  ### [${description}](https://github.com/${nameWithOwner}) (${stargazers.totalCount} stars)
+                  ### [${nameWithOwner}](https://github.com/${nameWithOwner}) (${stargazers.totalCount} stars)
+
+                  ${description}
+
                   <details>
                     <summary>Show screenshot</summary>
                     <p>
