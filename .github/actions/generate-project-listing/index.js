@@ -77,7 +77,7 @@ async function getGeneratedReadme(data) {
             )
             .join("\n\n")}`
         )
-        .join("\n"),
+        .join("\n\n"),
       "<!-- AWESOME_THINGS_END -->",
     ].join("\n\n")
   );
