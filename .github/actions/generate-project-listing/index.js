@@ -103,7 +103,7 @@ async function getGeneratedReadme(data) {
           <td align="center">
             <img src="${avatarUrl}&size=100" alt="Avatar of ${login}">
             <br />
-            <a href="https://github.com/${avatarUrl}">${login}</a>
+            <a href="https://github.com/${login}">${login}</a>
           </td>`
           )
           .join("")}`,
