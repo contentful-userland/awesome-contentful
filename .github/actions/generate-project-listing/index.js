@@ -55,6 +55,11 @@ async function fetchGitHubData({ title, items }) {
 }
 
 async function getGeneratedReadme(data) {
+  const maintainers = data.reduce((maintainers, cur) => {
+    Object.values(cur.data).forEach(({ owner }) => maintainers.push(owner));
+    return maintainers;
+  }, []);
+
   return (await readFile(README_PATH, "utf8"))
     .replace(
       /<!-- AWESOME_THINGS.*AWESOME_THINGS_END -->/gs,
@@ -91,7 +96,16 @@ async function getGeneratedReadme(data) {
       /<!-- AWESOME_MAINTAINERS.*AWESOME_MAINTAINERS_END -->/gs,
       [
         "<!-- AWESOME_MAINTAINERS -->",
-        "test",
+        `<table><tr>`,
+        `${maintainers.map(
+          ({ login, avatarUrl }) => `
+          <td align="center">
+            <img src="${avatarUrl}&size=75" alt="Avatar of ${login}">
+            <br />
+            <a href="https://github.com/${avatarUrl}">${avatarUrl}</a>
+          </td>`
+        )}`,
+        `</tr></table>`,
         "<!-- AWESOME_MAINTAINERS_END -->",
       ].join("\n\n")
     );
@@ -99,7 +113,6 @@ async function getGeneratedReadme(data) {
 
 (async () => {
   const data = await Promise.all(awesomeSections.map(fetchGitHubData));
-  console.log(JSON.stringify(data));
   const readme = await getGeneratedReadme(data);
 
   console.log(`Generated readme:\n${readme}`);
