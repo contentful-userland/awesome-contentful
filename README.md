@@ -56,4 +56,4 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
 
 We want to provide a safe, inclusive, welcoming, and harassment-free space and experience for all participants, regardless of gender identity and expression, sexual orientation, disability, physical appearance, socioeconomic status, body size, ethnicity, nationality, level of experience, age, religion (or lack thereof), or other identity markers.
 
-[Read our full Code of Conduct](https://github.com/contentful-developer-relations/community-code-of-conduct).
+[Read our full Code of Conduct](https://www.contentful.com/developers/code-of-conduct/).
