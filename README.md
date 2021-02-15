@@ -14,7 +14,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 <!-- AWESOME_THINGS -->
 
-## Awesome Apps
+## :star: Awesome Apps
 
 ### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (15 stars)
 
@@ -36,7 +36,8 @@ A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 <p>
 <img src="https://github.com/yn5/webhook-contentful-app/raw/master/screenshot.png">
 </p>
-</details>,## Awesome starters
+</details>
+## :star: Awesome starters
 
 ### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (12 stars)
 
