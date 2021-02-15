@@ -29,6 +29,7 @@ function getQuery(items) {
             }
 
             owner {
+              login
               avatarUrl
             }
           }
@@ -98,7 +99,7 @@ async function getGeneratedReadme(data) {
 
 (async () => {
   const data = await Promise.all(awesomeSections.map(fetchGitHubData));
-  console.log(data);
+  console.log(JSON.stringify(data));
   const readme = await getGeneratedReadme(data);
 
   console.log(`Generated readme:\n${readme}`);
