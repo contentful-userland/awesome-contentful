@@ -16,7 +16,10 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## Awesome Apps
 
-### [Contentful App to integrate GraphQL Playground](https://github.com/stefanjudis/contentful-graphql-playground-app) (15 stars)
+### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (15 stars)
+
+Contentful App to integrate GraphQL Playground
+
 <details>
 <summary>Show screenshot</summary>
 <p>
@@ -24,11 +27,25 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-### [A Contentful app extension to trigger one or multiple webhooks from the sidebar.](https://github.com/yn5/webhook-contentful-app) (6 stars)
+### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (6 stars)
+
+A Contentful app extension to trigger one or multiple webhooks from the sidebar.
+
 <details>
 <summary>Show screenshot</summary>
 <p>
 <img src="https://github.com/yn5/webhook-contentful-app/raw/master/screenshot.png">
+</p>
+</details>,## Awesome starters
+
+### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (12 stars)
+
+thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/whitep4nth3r/thingoftheday/raw/main/screenshot.png">
 </p>
 </details>
 
