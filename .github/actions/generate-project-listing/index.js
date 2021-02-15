@@ -54,10 +54,11 @@ async function getGeneratedReadme(data) {
     /<!-- AWESOME_THINGS.*AWESOME_THINGS_END -->/gs,
     [
       "<!-- AWESOME_THINGS -->",
-      data.map(
-        ({ title, data }) =>
-          stripIndents`
-          ## ${title}
+      data
+        .map(
+          ({ title, data }) =>
+            stripIndents`
+          ## :star: ${title}
 
           ${Object.values(data)
             .map(
@@ -75,7 +76,8 @@ async function getGeneratedReadme(data) {
                   </details>`
             )
             .join("\n\n")}`
-      ),
+        )
+        .join("\n"),
       "<!-- AWESOME_THINGS_END -->",
     ].join("\n\n")
   );
