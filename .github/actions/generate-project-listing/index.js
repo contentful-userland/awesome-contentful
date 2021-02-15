@@ -98,7 +98,7 @@ async function getGeneratedReadme(data) {
         "<!-- AWESOME_MAINTAINERS -->",
         `<table><tr>`,
         `${maintainers.map(
-          ({ login, avatarUrl }) => `
+          ({ login, avatarUrl }) => stripIndent`
           <td align="center">
             <img src="${avatarUrl}&size=75" alt="Avatar of ${login}">
             <br />
