@@ -60,17 +60,17 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
 <table><tr>
 
 <td align="center">
-  <img src="https://avatars.githubusercontent.com/u/962099?u=6437e61e389e838bcbd37d315f81a6dffd0c824a&v=4&size=75" alt="Avatar of stefanjudis">
+  <img src="https://avatars.githubusercontent.com/u/962099?u=6437e61e389e838bcbd37d315f81a6dffd0c824a&v=4&size=100" alt="Avatar of stefanjudis">
   <br />
-  <a href="https://github.com/https://avatars.githubusercontent.com/u/962099?u=6437e61e389e838bcbd37d315f81a6dffd0c824a&v=4">https://avatars.githubusercontent.com/u/962099?u=6437e61e389e838bcbd37d315f81a6dffd0c824a&v=4</a>
-</td>,<td align="center">
-  <img src="https://avatars.githubusercontent.com/u/1705585?u=07cd69b2e4cdf16fc8be59176a1ce11f4f073a13&v=4&size=75" alt="Avatar of yn5">
+  <a href="https://github.com/https://avatars.githubusercontent.com/u/962099?u=6437e61e389e838bcbd37d315f81a6dffd0c824a&v=4">stefanjudis</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/1705585?u=07cd69b2e4cdf16fc8be59176a1ce11f4f073a13&v=4&size=100" alt="Avatar of yn5">
   <br />
-  <a href="https://github.com/https://avatars.githubusercontent.com/u/1705585?u=07cd69b2e4cdf16fc8be59176a1ce11f4f073a13&v=4">https://avatars.githubusercontent.com/u/1705585?u=07cd69b2e4cdf16fc8be59176a1ce11f4f073a13&v=4</a>
-</td>,<td align="center">
-  <img src="https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4&size=75" alt="Avatar of whitep4nth3r">
+  <a href="https://github.com/https://avatars.githubusercontent.com/u/1705585?u=07cd69b2e4cdf16fc8be59176a1ce11f4f073a13&v=4">yn5</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
-  <a href="https://github.com/https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4">https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4</a>
+  <a href="https://github.com/https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4">whitep4nth3r</a>
 </td>
 
 </tr></table>
