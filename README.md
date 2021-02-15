@@ -37,6 +37,7 @@ A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 <img src="https://github.com/yn5/webhook-contentful-app/raw/master/screenshot.png">
 </p>
 </details>
+
 ## :star: Awesome starters
 
 ### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (12 stars)
