@@ -57,6 +57,8 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
 
 <!-- AWESOME_MAINTAINERS -->
 
+test
+
 <!-- AWESOME_MAINTAINERS_END -->
 
 ## Code of Conduct
