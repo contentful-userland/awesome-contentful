@@ -101,7 +101,7 @@ async function getGeneratedReadme(data) {
           .map(
             ({ login, avatarUrl }) => stripIndent`
           <td align="center">
-            <img src="${avatarUrl}&size=75" alt="Avatar of ${login}">
+            <img src="${avatarUrl}&size=100" alt="Avatar of ${login}">
             <br />
             <a href="https://github.com/${avatarUrl}">${login}</a>
           </td>`
