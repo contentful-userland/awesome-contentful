@@ -97,14 +97,16 @@ async function getGeneratedReadme(data) {
       [
         "<!-- AWESOME_MAINTAINERS -->",
         `<table><tr>`,
-        `${maintainers.map(
-          ({ login, avatarUrl }) => stripIndent`
+        `${maintainers
+          .map(
+            ({ login, avatarUrl }) => stripIndent`
           <td align="center">
             <img src="${avatarUrl}&size=75" alt="Avatar of ${login}">
             <br />
-            <a href="https://github.com/${avatarUrl}">${avatarUrl}</a>
+            <a href="https://github.com/${avatarUrl}">${login}</a>
           </td>`
-        )}`,
+          )
+          .join("")}`,
         `</tr></table>`,
         "<!-- AWESOME_MAINTAINERS_END -->",
       ].join("\n\n")
