@@ -53,6 +53,12 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
 
 <!-- AWESOME_THINGS_END -->
 
+## :star: Awesome maintainers
+
+<!-- AWESOME_MAINTAINERS -->
+
+<!-- AWESOME_MAINTAINERS_END -->
+
 ## Code of Conduct
 
 We want to provide a safe, inclusive, welcoming, and harassment-free space and experience for all participants, regardless of gender identity and expression, sexual orientation, disability, physical appearance, socioeconomic status, body size, ethnicity, nationality, level of experience, age, religion (or lack thereof), or other identity markers.

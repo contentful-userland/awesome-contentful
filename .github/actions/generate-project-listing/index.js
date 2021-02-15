@@ -50,14 +50,15 @@ async function fetchGitHubData({ title, items }) {
 }
 
 async function getGeneratedReadme(data) {
-  return (await readFile(README_PATH, "utf8")).replace(
-    /<!-- AWESOME_THINGS.*AWESOME_THINGS_END -->/gs,
-    [
-      "<!-- AWESOME_THINGS -->",
-      data
-        .map(
-          ({ title, data }) =>
-            stripIndents`
+  return (await readFile(README_PATH, "utf8"))
+    .replace(
+      /<!-- AWESOME_THINGS.*AWESOME_THINGS_END -->/gs,
+      [
+        "<!-- AWESOME_THINGS -->",
+        data
+          .map(
+            ({ title, data }) =>
+              stripIndents`
           ## :star: ${title}
 
           ${Object.values(data)
@@ -76,11 +77,19 @@ async function getGeneratedReadme(data) {
                   </details>`
             )
             .join("\n\n")}`
-        )
-        .join("\n\n"),
-      "<!-- AWESOME_THINGS_END -->",
-    ].join("\n\n")
-  );
+          )
+          .join("\n\n"),
+        "<!-- AWESOME_THINGS_END -->",
+      ].join("\n\n")
+    )
+    .replace(
+      /<!-- AWESOME_CONTRIBUTORS.*AWESOME_CONTRIBUTORS_END -->/gs,
+      [
+        "<!-- AWESOME_CONTRIBUTORS -->",
+        "test",
+        "<!-- AWESOME_CONTRIBUTORS_END -->",
+      ].join("\n\n")
+    );
 }
 
 (async () => {
