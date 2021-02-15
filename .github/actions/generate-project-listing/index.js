@@ -83,17 +83,18 @@ async function getGeneratedReadme(data) {
       ].join("\n\n")
     )
     .replace(
-      /<!-- AWESOME_CONTRIBUTORS.*AWESOME_CONTRIBUTORS_END -->/gs,
+      /<!-- AWESOME_MAINTAINERS.*AWESOME_MAINTAINERS_END -->/gs,
       [
-        "<!-- AWESOME_CONTRIBUTORS -->",
+        "<!-- AWESOME_MAINTAINERS -->",
         "test",
-        "<!-- AWESOME_CONTRIBUTORS_END -->",
+        "<!-- AWESOME_MAINTAINERS_END -->",
       ].join("\n\n")
     );
 }
 
 (async () => {
   const data = await Promise.all(awesomeSections.map(fetchGitHubData));
+  console.log(data);
   const readme = await getGeneratedReadme(data);
 
   console.log(`Generated readme:\n${readme}`);
