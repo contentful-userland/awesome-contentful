@@ -27,6 +27,10 @@ function getQuery(items) {
             defaultBranchRef {
               name
             }
+
+            owner {
+              avatarUrl
+            }
           }
           `;
         })
