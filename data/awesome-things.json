@@ -3,7 +3,8 @@
     "title": "Awesome Apps",
     "items": [
       "stefanjudis/contentful-graphql-playground-app",
-      "yn5/webhook-contentful-app"
+      "yn5/webhook-contentful-app",
+      "mgschoen/contentful-reference-matrix-field-app"
     ]
   },
   {
