@@ -38,6 +38,17 @@ A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 </p>
 </details>
 
+### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (5 stars)
+
+Contentful App that adds UI for a table-like list of references with other associated data.
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/mgschoen/contentful-reference-matrix-field-app/raw/master/screenshot.png">
+</p>
+</details>
+
 ## :star: Awesome Starters
 
 ### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (12 stars)
@@ -67,6 +78,10 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
   <img src="https://avatars.githubusercontent.com/u/1705585?u=07cd69b2e4cdf16fc8be59176a1ce11f4f073a13&v=4&size=100" alt="Avatar of yn5">
   <br />
   <a href="https://github.com/yn5">yn5</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/22660469?u=a745f99d425f22e067ce304a920fa6fff6ce0c21&v=4&size=100" alt="Avatar of mgschoen">
+  <br />
+  <a href="https://github.com/mgschoen">mgschoen</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
