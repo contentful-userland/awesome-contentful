@@ -4,7 +4,8 @@
     "items": [
       "stefanjudis/contentful-graphql-playground-app",
       "yn5/webhook-contentful-app",
-      "mgschoen/contentful-reference-matrix-field-app"
+      "mgschoen/contentful-reference-matrix-field-app",
+      "marcolink/cf-content-types-generator-app"
     ]
   },
   {
