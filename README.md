@@ -49,6 +49,17 @@ Contentful App that adds UI for a table-like list of references with other assoc
 </p>
 </details>
 
+### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (0 stars)
+
+null
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/marcolink/cf-content-types-generator-app/raw/main/screenshot.png">
+</p>
+</details>
+
 ## :star: Awesome Starters
 
 ### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (12 stars)
@@ -82,6 +93,10 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
   <img src="https://avatars.githubusercontent.com/u/22660469?u=a745f99d425f22e067ce304a920fa6fff6ce0c21&v=4&size=100" alt="Avatar of mgschoen">
   <br />
   <a href="https://github.com/mgschoen">mgschoen</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/156505?u=f39e9b9f3644dded80035a10deb2d4f334b57c92&v=4&size=100" alt="Avatar of marcolink">
+  <br />
+  <a href="https://github.com/marcolink">marcolink</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
