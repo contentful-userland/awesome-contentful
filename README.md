@@ -27,7 +27,7 @@ Contentful App to integrate GraphQL Playground
 </p>
 </details>
 
-### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (6 stars)
+### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (7 stars)
 
 A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 
@@ -49,7 +49,7 @@ Contentful App that adds UI for a table-like list of references with other assoc
 </p>
 </details>
 
-### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (3 stars)
+### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (6 stars)
 
 A Contentful App to generate typescript types based on contentful's content types.
 
