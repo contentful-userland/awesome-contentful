@@ -49,7 +49,7 @@ Contentful App that adds UI for a table-like list of references with other assoc
 </p>
 </details>
 
-### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (6 stars)
+### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (7 stars)
 
 A Contentful App to generate typescript types based on contentful's content types.
 
