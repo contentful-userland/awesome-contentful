@@ -73,6 +73,19 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
 </p>
 </details>
 
+## :star: Awesome Utilities
+
+### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (33 stars)
+
+null
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/watermarkchurch/contentful-schema-diff/raw/master/screenshot.png">
+</p>
+</details>
+
 <!-- AWESOME_THINGS_END -->
 
 ## :star: Awesome maintainers
@@ -101,6 +114,10 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
   <img src="https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
   <a href="https://github.com/whitep4nth3r">whitep4nth3r</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
+  <br />
+  <a href="https://github.com/watermarkchurch">watermarkchurch</a>
 </td>
 
 </tr></table>
