@@ -11,5 +11,11 @@
   {
     "title": "Awesome Starters",
     "items": ["whitep4nth3r/thingoftheday"]
+  },
+  {
+    "title": "Awesome Utilities",
+    "items": [
+       "watermarkchurch/contentful-schema-diff
+    ]
   }
 ]
