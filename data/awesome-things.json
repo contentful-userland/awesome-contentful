@@ -15,7 +15,8 @@
   {
     "title": "Awesome Utilities",
     "items": [
-       "watermarkchurch/contentful-schema-diff"
+       "watermarkchurch/contentful-schema-diff",
+       "watermarkchurch/contentful-ts-generator"
     ]
   }
 ]
