@@ -16,7 +16,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Apps
 
-### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (15 stars)
+### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (16 stars)
 
 Contentful App to integrate GraphQL Playground
 
@@ -27,7 +27,7 @@ Contentful App to integrate GraphQL Playground
 </p>
 </details>
 
-### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (7 stars)
+### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (8 stars)
 
 A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 
@@ -38,7 +38,7 @@ A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 </p>
 </details>
 
-### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (9 stars)
+### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (10 stars)
 
 Contentful App that adds UI for a table-like list of references with other associated data.
 
@@ -49,7 +49,7 @@ Contentful App that adds UI for a table-like list of references with other assoc
 </p>
 </details>
 
-### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (8 stars)
+### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (9 stars)
 
 A Contentful App to generate typescript types based on contentful's content types.
 
@@ -62,7 +62,7 @@ A Contentful App to generate typescript types based on contentful's content type
 
 ## :star: Awesome Starters
 
-### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (12 stars)
+### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (13 stars)
 
 thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
@@ -75,7 +75,7 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
 
 ## :star: Awesome Utilities
 
-### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (33 stars)
+### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (36 stars)
 
 Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
