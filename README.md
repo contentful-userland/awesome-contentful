@@ -16,15 +16,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Apps
 
-<<<<<<< HEAD
-
-#### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (17 stars)\*\*
-
-=======
-
 #### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (17 stars)
-
-> > > > > > > a10f4f13c4239c5f51453e75cf3ea109c6318565
 
 > Contentful App to integrate GraphQL Playground
 
@@ -35,15 +27,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-<<<<<<< HEAD
-
-#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (8 stars)\*\*
-
-=======
-
 #### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (8 stars)
-
-> > > > > > > a10f4f13c4239c5f51453e75cf3ea109c6318565
 
 > A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 
@@ -54,15 +38,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-<<<<<<< HEAD
-
-#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (10 stars)\*\*
-
-=======
-
 #### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (10 stars)
-
-> > > > > > > a10f4f13c4239c5f51453e75cf3ea109c6318565
 
 > Contentful App that adds UI for a table-like list of references with other associated data.
 
@@ -73,15 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-<<<<<<< HEAD
-
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (9 stars)\*\*
-
-=======
-
 #### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (9 stars)
-
-> > > > > > > a10f4f13c4239c5f51453e75cf3ea109c6318565
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
@@ -94,15 +62,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Starters
 
-<<<<<<< HEAD
-
-#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (13 stars)\*\*
-
-=======
-
 #### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (13 stars)
-
-> > > > > > > a10f4f13c4239c5f51453e75cf3ea109c6318565
 
 > thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
@@ -115,15 +75,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-<<<<<<< HEAD
-
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (37 stars)\*\*
-
-=======
-
 #### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (37 stars)
-
-> > > > > > > a10f4f13c4239c5f51453e75cf3ea109c6318565
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
@@ -134,15 +86,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-<<<<<<< HEAD
-
-#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (8 stars)\*\*
-
-=======
-
 #### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (8 stars)
-
-> > > > > > > a10f4f13c4239c5f51453e75cf3ea109c6318565
 
 > A toolbox of typescript generators
 
@@ -153,15 +97,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-<<<<<<< HEAD
-
-#### [watermarkchurch/contentful-migration](https://github.com/watermarkchurch/contentful-migration) (3 stars)\*\*
-
-=======
-
 #### [watermarkchurch/contentful-migration](https://github.com/watermarkchurch/contentful-migration) (3 stars)
-
-> > > > > > > a10f4f13c4239c5f51453e75cf3ea109c6318565
 
 > This fork of contentful-migration stores a history of your migrations in your space, and adds a "batch" mode to only runs the migrations that haven't yet been run.
 
