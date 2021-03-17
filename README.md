@@ -86,6 +86,17 @@ Command-line tool which generates Contentful migration files from the diff betwe
 </p>
 </details>
 
+### [watermarkchurch/contentful-shell](https://github.com/watermarkchurch/contentful-shell) (4 stars)
+
+A shell script that wraps around the Contentful CLI providing some additional utilities and conveniences
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/watermarkchurch/contentful-shell/raw/master/screenshot.png">
+</p>
+</details>
+
 <!-- AWESOME_THINGS_END -->
 
 ## :star: Awesome maintainers
@@ -114,6 +125,10 @@ Command-line tool which generates Contentful migration files from the diff betwe
   <img src="https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
   <a href="https://github.com/whitep4nth3r">whitep4nth3r</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
+  <br />
+  <a href="https://github.com/watermarkchurch">watermarkchurch</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
   <br />
