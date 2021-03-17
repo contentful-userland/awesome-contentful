@@ -16,7 +16,8 @@
     "title": "Awesome Utilities",
     "items": [
        "watermarkchurch/contentful-schema-diff",
-       "watermarkchurch/contentful-migration
+       "watermarkchurch/contentful-migration",
+       "watermarkchurch/contentful-shell"
     ]
   }
 ]
