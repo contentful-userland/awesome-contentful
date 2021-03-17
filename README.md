@@ -151,18 +151,6 @@ A shell script that wraps around the Contentful CLI providing some additional ut
   <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
   <br />
   <a href="https://github.com/watermarkchurch">watermarkchurch</a>
-</td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
-  <br />
-  <a href="https://github.com/watermarkchurch">watermarkchurch</a>
-</td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
-  <br />
-  <a href="https://github.com/watermarkchurch">watermarkchurch</a>
-</td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
-  <br />
-  <a href="https://github.com/watermarkchurch">watermarkchurch</a>
 </td>
 
 </tr></table>
