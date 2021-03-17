@@ -75,7 +75,7 @@ thingoftheday is a lightweight microblogging site powered by Contentful and vani
 
 ## :star: Awesome Utilities
 
-### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (36 stars)
+### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (37 stars)
 
 Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
