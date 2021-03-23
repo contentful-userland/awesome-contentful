@@ -18,7 +18,8 @@
        "watermarkchurch/contentful-schema-diff",
        "watermarkchurch/contentful-ts-generator",
        "watermarkchurch/contentful-migration",
-       "watermarkchurch/contentful-shell"
+       "watermarkchurch/contentful-shell",
+       "OriginalEXE/contentmodel.io-web"
     ]
   }
 ]
