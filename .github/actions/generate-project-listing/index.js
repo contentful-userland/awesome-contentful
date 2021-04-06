@@ -47,6 +47,8 @@ async function fetchGitHubData({ title, items }) {
     body: JSON.stringify({ query: getQuery(items) }),
   });
 
+  console.log(JSON.parse(response.body));
+  
   return {
     title,
     items,
@@ -124,7 +126,6 @@ async function getGeneratedReadme(data) {
 
 (async () => {
   const data = await Promise.all(awesomeSections.map(fetchGitHubData));
-  console.log(JSON.stringify(data, null, 2));
   const readme = await getGeneratedReadme(data);
 
   console.log(`Generated readme:\n${readme}`);
