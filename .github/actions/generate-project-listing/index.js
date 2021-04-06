@@ -15,7 +15,7 @@ function getQuery(items) {
           const [owner, name] = project.split("/");
           return `
           ${name.replace(
-            /[-]/g,
+            /[-\.]/g,
             "_"
           )} : repository(name: "${name}", owner: "${owner}") {
             nameWithOwner
