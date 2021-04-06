@@ -10,16 +10,16 @@
   },
   {
     "title": "Awesome Starters",
-    "items": ["whitep4nth3r/thingoftheday"]
+    "items": ["whitep4nth3r/thingoftheday", "whitep4nth3r/nextjs-contentful-blog-starter"]
   },
   {
     "title": "Awesome Utilities",
     "items": [
-       "watermarkchurch/contentful-schema-diff",
-       "watermarkchurch/contentful-ts-generator",
-       "watermarkchurch/contentful-migration",
-       "watermarkchurch/contentful-shell",
-       "OriginalEXE/contentmodel.io-web"
+      "watermarkchurch/contentful-schema-diff",
+      "watermarkchurch/contentful-ts-generator",
+      "watermarkchurch/contentful-migration",
+      "watermarkchurch/contentful-shell",
+      "OriginalEXE/contentmodel.io-web"
     ]
   }
 ]
