@@ -56,14 +56,16 @@ async function fetchGitHubData({ title, items }) {
 
 async function getGeneratedReadme(data) {
   const maintainers = data.reduce((maintainers, cur) => {
-    Object.values(cur.data).forEach(({ owner }) => {
-      if (
-        !maintainers.filter(({ avatarUrl }) => avatarUrl === owner.avatarUrl)
-          .length
-      ) {
-        maintainers.push(owner);
-      }
-    });
+    if (cur.data) {
+      Object.values(cur.data).forEach(({ owner }) => {
+        if (
+          !maintainers.filter(({ avatarUrl }) => avatarUrl === owner.avatarUrl)
+            .length
+        ) {
+          maintainers.push(owner);
+        }
+      });
+    }
     return maintainers;
   }, []);
 
