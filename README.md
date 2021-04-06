@@ -38,7 +38,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (10 stars)
+#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (11 stars)
 
 > Contentful App that adds UI for a table-like list of references with other associated data.
 
@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (9 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (11 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
@@ -62,7 +62,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Starters
 
-#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (16 stars)
+#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (19 stars)
 
 > thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
@@ -70,6 +70,17 @@ You want to contribute a project to share it with the community? That's great! P
 <summary>Show screenshot</summary>
 <p>
 <img src="https://github.com/whitep4nth3r/thingoftheday/raw/main/screenshot.png">
+</p>
+</details>
+
+#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (9 stars)
+
+> A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/whitep4nth3r/nextjs-contentful-blog-starter/raw/main/screenshot.png">
 </p>
 </details>
 
@@ -119,6 +130,17 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
+#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (8 stars)
+
+> contentmodel.io is a community-sourced, visual directory of Contentful content models
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/OriginalEXE/contentmodel.io-web/raw/main/screenshot.png">
+</p>
+</details>
+
 <!-- AWESOME_THINGS_END -->
 
 ## :star: Awesome maintainers
@@ -151,6 +173,10 @@ You want to contribute a project to share it with the community? That's great! P
   <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
   <br />
   <a href="https://github.com/watermarkchurch">watermarkchurch</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/2056251?u=d1ea981f52fa7acd89dc2fc87040797db8e59887&v=4&size=100" alt="Avatar of OriginalEXE">
+  <br />
+  <a href="https://github.com/OriginalEXE">OriginalEXE</a>
 </td>
 
 </tr></table>
