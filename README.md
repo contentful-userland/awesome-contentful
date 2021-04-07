@@ -73,7 +73,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (9 stars)
+#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (11 stars)
 
 > A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
 
@@ -119,7 +119,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-shell](https://github.com/watermarkchurch/contentful-shell) (4 stars)
+#### [watermarkchurch/contentful-shell](https://github.com/watermarkchurch/contentful-shell) (5 stars)
 
 > A shell script that wraps around the Contentful CLI providing some additional utilities and conveniences
 
