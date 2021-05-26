@@ -19,7 +19,8 @@
       "watermarkchurch/contentful-ts-generator",
       "watermarkchurch/contentful-migration",
       "watermarkchurch/contentful-shell",
-      "OriginalEXE/contentmodel.io-web"
+      "OriginalEXE/contentmodel.io-web",
+      "airtonzanon/sculpin-contentful-bundle"
     ]
   }
 ]
