@@ -84,6 +84,17 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
+#### [canhorn/Blazor.Contentful.Blog.Starter](https://github.com/canhorn/Blazor.Contentful.Blog.Starter) (0 stars)
+
+> null
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/canhorn/Blazor.Contentful.Blog.Starter/raw/main/screenshot.png">
+</p>
+</details>
+
 ## :star: Awesome Utilities
 
 #### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (40 stars)
@@ -169,6 +180,10 @@ You want to contribute a project to share it with the community? That's great! P
   <img src="https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
   <a href="https://github.com/whitep4nth3r">whitep4nth3r</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/5433919?v=4&size=100" alt="Avatar of canhorn">
+  <br />
+  <a href="https://github.com/canhorn">canhorn</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
   <br />
