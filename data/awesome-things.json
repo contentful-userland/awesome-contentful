@@ -21,5 +21,11 @@
       "watermarkchurch/contentful-shell",
       "OriginalEXE/contentmodel.io-web"
     ]
+  },
+  {
+    "title": "Awesome Ruby",
+    "items": [
+      "watermarkchurch/wcc-contentful"
+    ]
   }
 ]
