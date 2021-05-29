@@ -86,7 +86,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 #### [canhorn/Blazor.Contentful.Blog.Starter](https://github.com/canhorn/Blazor.Contentful.Blog.Starter) (0 stars)
 
-> A Blazor and Contentful blog site starter to get you up and running quickly with your new blog site.
+> A ASP.NET Core Blazor and Contentful blog site starter to get you up and running quickly with your new blog site.
 
 <details>
 <summary>Show screenshot</summary>
