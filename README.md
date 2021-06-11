@@ -84,7 +84,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [canhorn/Blazor.Contentful.Blog.Starter](https://github.com/canhorn/Blazor.Contentful.Blog.Starter) (4 stars)
+#### [canhorn/Blazor.Contentful.Blog.Starter](https://github.com/canhorn/Blazor.Contentful.Blog.Starter) (6 stars)
 
 > A ASP.NET Core Blazor and Contentful blog site starter to get you up and running quickly with your new blog site.
 
@@ -97,7 +97,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (40 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (42 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
@@ -108,7 +108,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (10 stars)
+#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (11 stars)
 
 > A toolbox of typescript generators
 
