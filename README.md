@@ -62,7 +62,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Starters
 
-#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (24 stars)
+#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (25 stars)
 
 > thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
@@ -97,7 +97,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (44 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (45 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
