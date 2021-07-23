@@ -73,7 +73,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (41 stars)
+#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (42 stars)
 
 > A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
 
@@ -141,7 +141,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (13 stars)
+#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (14 stars)
 
 > contentmodel.io is a community-sourced, visual directory of Contentful content models
 
