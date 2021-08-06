@@ -16,7 +16,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Apps
 
-#### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (20 stars)
+#### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (21 stars)
 
 > Contentful App to integrate GraphQL Playground
 
@@ -27,7 +27,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (9 stars)
+#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (10 stars)
 
 > A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 
@@ -38,7 +38,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (14 stars)
+#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (15 stars)
 
 > Contentful App that adds UI for a table-like list of references with other associated data.
 
@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (11 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (12 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
