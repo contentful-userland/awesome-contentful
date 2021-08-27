@@ -97,7 +97,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (47 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (48 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
@@ -108,7 +108,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (12 stars)
+#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (13 stars)
 
 > A toolbox of typescript generators
 
