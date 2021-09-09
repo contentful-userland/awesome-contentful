@@ -119,7 +119,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-migration](https://github.com/watermarkchurch/contentful-migration) (3 stars)
+#### [watermarkchurch/contentful-migration](https://github.com/watermarkchurch/contentful-migration) (4 stars)
 
 > This fork of contentful-migration stores a history of your migrations in your space, and adds a "batch" mode to only runs the migrations that haven't yet been run.
 
