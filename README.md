@@ -73,7 +73,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (59 stars)
+#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (60 stars)
 
 > A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
 
@@ -152,6 +152,17 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
+#### [ModiiMedia/contentful-hugo](https://github.com/ModiiMedia/contentful-hugo) (19 stars)
+
+> A CLI tool that pulls data from Contentful and turns it into markdown files for Hugo and other static site generators. It also includes an express server that can be used for local development and content previews
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/ModiiMedia/contentful-hugo/raw/master/screenshot.png">
+</p>
+</details>
+
 <!-- AWESOME_THINGS_END -->
 
 ## :star: Awesome maintainers
@@ -192,6 +203,10 @@ You want to contribute a project to share it with the community? That's great! P
   <img src="https://avatars.githubusercontent.com/u/2056251?u=d1ea981f52fa7acd89dc2fc87040797db8e59887&v=4&size=100" alt="Avatar of OriginalEXE">
   <br />
   <a href="https://github.com/OriginalEXE">OriginalEXE</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/35595110?v=4&size=100" alt="Avatar of ModiiMedia">
+  <br />
+  <a href="https://github.com/ModiiMedia">ModiiMedia</a>
 </td>
 
 </tr></table>
