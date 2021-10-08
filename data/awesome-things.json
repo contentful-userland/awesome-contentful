@@ -20,7 +20,8 @@
       "watermarkchurch/contentful-migration",
       "watermarkchurch/contentful-shell",
       "OriginalEXE/contentmodel.io-web",
-      "ModiiMedia/contentful-hugo"
+      "ModiiMedia/contentful-hugo",
+      "mitya33/cfimp"
     ]
   }
 ]
