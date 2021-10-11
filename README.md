@@ -163,6 +163,17 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
+#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (1 stars)
+
+> A simple but powerful CSV data importer for the Contentful headless CMS
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/mitya33/cfimp/raw/master/screenshot.png">
+</p>
+</details>
+
 <!-- AWESOME_THINGS_END -->
 
 ## :star: Awesome maintainers
@@ -207,6 +218,10 @@ You want to contribute a project to share it with the community? That's great! P
   <img src="https://avatars.githubusercontent.com/u/35595110?v=4&size=100" alt="Avatar of ModiiMedia">
   <br />
   <a href="https://github.com/ModiiMedia">ModiiMedia</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/30174698?u=c26eec09282c610f2f6f087344425ca8b79314b2&v=4&size=100" alt="Avatar of mitya33">
+  <br />
+  <a href="https://github.com/mitya33">mitya33</a>
 </td>
 
 </tr></table>
