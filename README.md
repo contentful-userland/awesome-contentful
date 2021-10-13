@@ -95,6 +95,17 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
+#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (1 stars)
+
+> A Contentful App Starter Template using Vue3 + Vite2. ⚡️
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/bcakmakoglu/contentful-vitesse-starter/raw/develop/screenshot.png">
+</p>
+</details>
+
 ## :star: Awesome Utilities
 
 #### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (52 stars)
@@ -206,6 +217,10 @@ You want to contribute a project to share it with the community? That's great! P
   <img src="https://avatars.githubusercontent.com/u/5433919?v=4&size=100" alt="Avatar of canhorn">
   <br />
   <a href="https://github.com/canhorn">canhorn</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/78412429?u=5c18cc1df6cf3433dc5a4d5303eb393f4a9d0cc7&v=4&size=100" alt="Avatar of bcakmakoglu">
+  <br />
+  <a href="https://github.com/bcakmakoglu">bcakmakoglu</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/2896397?v=4&size=100" alt="Avatar of watermarkchurch">
   <br />
