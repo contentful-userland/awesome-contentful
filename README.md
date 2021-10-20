@@ -62,7 +62,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Starters
 
-#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (33 stars)
+#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (32 stars)
 
 > thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
@@ -84,7 +84,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [canhorn/Blazor.Contentful.Blog.Starter](https://github.com/canhorn/Blazor.Contentful.Blog.Starter) (11 stars)
+#### [canhorn/Blazor.Contentful.Blog.Starter](https://github.com/canhorn/Blazor.Contentful.Blog.Starter) (10 stars)
 
 > A ASP.NET Core Blazor and Contentful blog site starter to get you up and running quickly with your new blog site.
 
