@@ -108,7 +108,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (54 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (53 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
@@ -210,7 +210,7 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/marcolink">marcolink</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/52798353?u=735b6d42efc01d0917e41d2a85a4b705f9d424fb&v=4&size=100" alt="Avatar of whitep4nth3r">
+  <img src="https://avatars.githubusercontent.com/u/52798353?u=f3ae3625db671129518116190c27345143db0b86&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
   <a href="https://github.com/whitep4nth3r">whitep4nth3r</a>
 </td><td align="center">
