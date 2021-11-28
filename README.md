@@ -34,7 +34,7 @@ You want to contribute a project to share it with the community? That's great! P
 <details>
 <summary>Show screenshot</summary>
 <p>
-<img src="https://github.com/yn5/webhook-contentful-app/raw/master/screenshot.png">
+<img src="https://github.com/yn5/webhook-contentful-app/raw/main/screenshot.png">
 </p>
 </details>
 
