@@ -152,7 +152,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (15 stars)
+#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (16 stars)
 
 > contentmodel.io is a community-sourced, visual directory of Contentful content models
 
