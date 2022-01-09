@@ -73,7 +73,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (74 stars)
+#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (75 stars)
 
 > A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
 
@@ -163,7 +163,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [ModiiMedia/contentful-hugo](https://github.com/ModiiMedia/contentful-hugo) (20 stars)
+#### [ModiiMedia/contentful-hugo](https://github.com/ModiiMedia/contentful-hugo) (21 stars)
 
 > A CLI tool that pulls data from Contentful and turns it into markdown files for Hugo and other static site generators. It also includes an express server that can be used for local development and content previews
 
