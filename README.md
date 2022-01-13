@@ -38,7 +38,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (18 stars)
+#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (21 stars)
 
 > Contentful App that adds UI for a table-like list of references with other associated data.
 
@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (14 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (19 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
