@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (19 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (21 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
