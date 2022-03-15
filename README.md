@@ -95,7 +95,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (2 stars)
+#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (3 stars)
 
 > A Contentful App Starter Template using Vue3 + Vite2. ⚡️
 
@@ -152,7 +152,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (17 stars)
+#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (18 stars)
 
 > contentmodel.io is a community-sourced, visual directory of Contentful content models
 
@@ -174,7 +174,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (2 stars)
+#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (3 stars)
 
 > A simple but powerful spreadsheet-derived (CSV, TSV) data importer for the Contentful headless CMS. In so doing, it can also link items to references, assets or tags, and even publish items. It can also be used to update existing items rather than import new ones.
 
