@@ -16,14 +16,14 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Apps
 
-#### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (24 stars)
+#### [contentful/contentful-graphql-playground-app](https://github.com/contentful/contentful-graphql-playground-app) (24 stars)
 
 > Contentful App to integrate GraphQL Playground
 
 <details>
 <summary>Show screenshot</summary>
 <p>
-<img src="https://github.com/stefanjudis/contentful-graphql-playground-app/raw/main/screenshot.png">
+<img src="https://github.com/contentful/contentful-graphql-playground-app/raw/main/screenshot.png">
 </p>
 </details>
 
@@ -62,7 +62,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Starters
 
-#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (34 stars)
+#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (35 stars)
 
 > thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
@@ -73,7 +73,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (81 stars)
+#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (82 stars)
 
 > A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
 
@@ -194,9 +194,9 @@ You want to contribute a project to share it with the community? That's great! P
 <table><tr>
 
 <td align="center">
-  <img src="https://avatars.githubusercontent.com/u/962099?u=6437e61e389e838bcbd37d315f81a6dffd0c824a&v=4&size=100" alt="Avatar of stefanjudis">
+  <img src="https://avatars.githubusercontent.com/u/472182?v=4&size=100" alt="Avatar of contentful">
   <br />
-  <a href="https://github.com/stefanjudis">stefanjudis</a>
+  <a href="https://github.com/contentful">contentful</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/1705585?u=07cd69b2e4cdf16fc8be59176a1ce11f4f073a13&v=4&size=100" alt="Avatar of yn5">
   <br />
