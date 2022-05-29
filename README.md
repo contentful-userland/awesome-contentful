@@ -218,7 +218,7 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/canhorn">canhorn</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/78412429?u=663584c8f8a736c11bde1bda3066d1987965b477&v=4&size=100" alt="Avatar of bcakmakoglu">
+  <img src="https://avatars.githubusercontent.com/u/78412429?u=1f204b2d08897c09aa9386bd5b3aaa39ca058264&v=4&size=100" alt="Avatar of bcakmakoglu">
   <br />
   <a href="https://github.com/bcakmakoglu">bcakmakoglu</a>
 </td><td align="center">
