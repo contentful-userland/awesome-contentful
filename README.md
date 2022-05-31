@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (23 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (24 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
@@ -108,7 +108,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (56 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (57 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
@@ -119,7 +119,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (14 stars)
+#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (15 stars)
 
 > A toolbox of typescript generators
 
@@ -152,7 +152,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (19 stars)
+#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (20 stars)
 
 > contentmodel.io is a community-sourced, visual directory of Contentful content models
 
@@ -174,7 +174,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (5 stars)
+#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (6 stars)
 
 > A simple but powerful spreadsheet-derived (CSV, TSV) data importer for the Contentful headless CMS. In so doing, it can also link items to references, assets or tags, and even publish items. It can also be used to update existing items rather than import new ones.
 
