@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (25 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (26 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
@@ -108,7 +108,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (59 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (60 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
