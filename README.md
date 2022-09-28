@@ -141,7 +141,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-shell](https://github.com/watermarkchurch/contentful-shell) (5 stars)
+#### [watermarkchurch/contentful-shell](https://github.com/watermarkchurch/contentful-shell) (6 stars)
 
 > A shell script that wraps around the Contentful CLI providing some additional utilities and conveniences
 
