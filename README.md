@@ -27,7 +27,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (16 stars)
+#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (17 stars)
 
 > A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 
@@ -38,7 +38,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (25 stars)
+#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (26 stars)
 
 > Contentful App that adds UI for a table-like list of references with other associated data.
 
@@ -174,7 +174,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (12 stars)
+#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (13 stars)
 
 > A simple but powerful spreadsheet-derived (CSV, TSV) data importer for the Contentful headless CMS. In so doing, it can also link items to references, assets or tags, and even publish items. It can also be used to update existing items rather than import new ones.
 
