@@ -16,7 +16,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Apps
 
-#### [contentful/contentful-graphql-playground-app](https://github.com/contentful/contentful-graphql-playground-app) (24 stars)
+#### [contentful/contentful-graphql-playground-app](https://github.com/contentful/contentful-graphql-playground-app) (23 stars)
 
 > Contentful App to integrate GraphQL Playground
 
