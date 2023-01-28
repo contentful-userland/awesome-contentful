@@ -73,7 +73,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (112 stars)
+#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (113 stars)
 
 > A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
 
@@ -119,7 +119,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (16 stars)
+#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (17 stars)
 
 > A toolbox of typescript generators
 
