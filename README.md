@@ -27,7 +27,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (17 stars)
+#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (18 stars)
 
 > A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 
@@ -108,7 +108,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (62 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (63 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
