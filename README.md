@@ -38,7 +38,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (26 stars)
+#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (27 stars)
 
 > Contentful App that adds UI for a table-like list of references with other associated data.
 
