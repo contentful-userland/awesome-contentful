@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (33 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (34 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
@@ -95,7 +95,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (3 stars)
+#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (4 stars)
 
 > A Contentful App Starter Template using Vue3 + Vite2. ⚡️
 
