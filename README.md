@@ -95,7 +95,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (4 stars)
+#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (5 stars)
 
 > A Contentful App Starter Template using Vue3 + Vite2. ⚡️
 
@@ -108,7 +108,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (63 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (62 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
