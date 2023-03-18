@@ -95,7 +95,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (5 stars)
+#### [bcakmakoglu/contentful-vitesse-starter](https://github.com/bcakmakoglu/contentful-vitesse-starter) (3 stars)
 
 > A Contentful App Starter Template using Vue3 + Vite2. ⚡️
 
