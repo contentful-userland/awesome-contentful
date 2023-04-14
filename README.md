@@ -210,7 +210,7 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/marcolink">marcolink</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/52798353?u=e0bf8318f01cce6366908f90d7771f4db0fc0baf&v=4&size=100" alt="Avatar of whitep4nth3r">
+  <img src="https://avatars.githubusercontent.com/u/52798353?u=0cf2eff82a9792e0ecf8a472ff279c06bb5d1478&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
   <a href="https://github.com/whitep4nth3r">whitep4nth3r</a>
 </td><td align="center">
