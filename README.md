@@ -75,7 +75,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 #### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (116 stars)
 
-> A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
+> This starter repository is no longer maintained.
 
 <details>
 <summary>Show screenshot</summary>
