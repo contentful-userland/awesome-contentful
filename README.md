@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (43 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (41 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
@@ -163,7 +163,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [ModiiMedia/contentful-hugo](https://github.com/ModiiMedia/contentful-hugo) (36 stars)
+#### [ModiiMedia/contentful-hugo](https://github.com/ModiiMedia/contentful-hugo) (37 stars)
 
 > A CLI tool that pulls data from Contentful and turns it into markdown files for Hugo and other static site generators. It also includes an express server that can be used for local development and content previews
 
