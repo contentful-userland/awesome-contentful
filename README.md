@@ -163,14 +163,14 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [ModiiMedia/contentful-hugo](https://github.com/ModiiMedia/contentful-hugo) (38 stars)
+#### [modiimedia/contentful-hugo](https://github.com/modiimedia/contentful-hugo) (37 stars)
 
 > A CLI tool that pulls data from Contentful and turns it into markdown files for Hugo and other static site generators. It also includes an express server that can be used for local development and content previews
 
 <details>
 <summary>Show screenshot</summary>
 <p>
-<img src="https://github.com/ModiiMedia/contentful-hugo/raw/master/screenshot.png">
+<img src="https://github.com/modiimedia/contentful-hugo/raw/master/screenshot.png">
 </p>
 </details>
 
@@ -230,9 +230,9 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/OriginalEXE">OriginalEXE</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/35595110?v=4&size=100" alt="Avatar of ModiiMedia">
+  <img src="https://avatars.githubusercontent.com/u/35595110?v=4&size=100" alt="Avatar of modiimedia">
   <br />
-  <a href="https://github.com/ModiiMedia">ModiiMedia</a>
+  <a href="https://github.com/modiimedia">modiimedia</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/30174698?u=c26eec09282c610f2f6f087344425ca8b79314b2&v=4&size=100" alt="Avatar of mitya33">
   <br />
