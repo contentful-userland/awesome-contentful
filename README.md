@@ -226,7 +226,7 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/watermarkchurch">watermarkchurch</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/2056251?u=d1ea981f52fa7acd89dc2fc87040797db8e59887&v=4&size=100" alt="Avatar of OriginalEXE">
+  <img src="https://avatars.githubusercontent.com/u/2056251?u=587689dfb2bbd1bacfb3126dd75d925343fad119&v=4&size=100" alt="Avatar of OriginalEXE">
   <br />
   <a href="https://github.com/OriginalEXE">OriginalEXE</a>
 </td><td align="center">
