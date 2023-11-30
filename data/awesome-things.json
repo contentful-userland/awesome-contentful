@@ -5,7 +5,8 @@
       "stefanjudis/contentful-graphql-playground-app",
       "yn5/webhook-contentful-app",
       "mgschoen/contentful-reference-matrix-field-app",
-      "marcolink/cf-content-types-generator-app"
+      "marcolink/cf-content-types-generator-app",
+      "flohealth/contentful-localization-matrix"
     ]
   },
   {
