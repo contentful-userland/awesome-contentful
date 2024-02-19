@@ -60,6 +60,17 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
+#### [flohealth/contentful-localization-matrix](https://github.com/flohealth/contentful-localization-matrix) (10 stars)
+
+> Contentful Localization Matrix: the Contentful App that extends localization observability of your content hierarchy.
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/flohealth/contentful-localization-matrix/raw/main/screenshot.png">
+</p>
+</details>
+
 ## :star: Awesome Starters
 
 #### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (47 stars)
@@ -209,6 +220,10 @@ You want to contribute a project to share it with the community? That's great! P
   <img src="https://avatars.githubusercontent.com/u/156505?u=f39e9b9f3644dded80035a10deb2d4f334b57c92&v=4&size=100" alt="Avatar of marcolink">
   <br />
   <a href="https://github.com/marcolink">marcolink</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/72540780?v=4&size=100" alt="Avatar of flohealth">
+  <br />
+  <a href="https://github.com/flohealth">flohealth</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/52798353?u=7f95d20a542b6e045d2587b5576e53a3a774044d&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
