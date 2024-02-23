@@ -60,7 +60,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [flohealth/contentful-localization-matrix](https://github.com/flohealth/contentful-localization-matrix) (10 stars)
+#### [flohealth/contentful-localization-matrix](https://github.com/flohealth/contentful-localization-matrix) (11 stars)
 
 > Contentful Localization Matrix: the Contentful App that extends localization observability of your content hierarchy.
 
