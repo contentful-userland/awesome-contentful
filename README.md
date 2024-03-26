@@ -27,7 +27,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (21 stars)
+#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (22 stars)
 
 > A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 
@@ -233,7 +233,7 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/canhorn">canhorn</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/78412429?u=deffe098923a11efdc4b5f84f02e15bbb5b7697d&v=4&size=100" alt="Avatar of bcakmakoglu">
+  <img src="https://avatars.githubusercontent.com/u/78412429?u=4e98012ba717a410048bee88aa226e50f5548604&v=4&size=100" alt="Avatar of bcakmakoglu">
   <br />
   <a href="https://github.com/bcakmakoglu">bcakmakoglu</a>
 </td><td align="center">
