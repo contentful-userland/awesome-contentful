@@ -73,7 +73,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Starters
 
-#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (48 stars)
+#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (47 stars)
 
 > thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
@@ -185,7 +185,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (17 stars)
+#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (18 stars)
 
 > A simple but powerful spreadsheet-derived (CSV, TSV) data importer for the Contentful headless CMS. In so doing, it can also link items to references, assets or tags, and even publish items. It can also be used to update existing items rather than import new ones.
 
