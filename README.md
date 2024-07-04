@@ -225,7 +225,7 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/flohealth">flohealth</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/52798353?u=4b113863bb3d17d8e846425d331874e78a7ea0d2&v=4&size=100" alt="Avatar of whitep4nth3r">
+  <img src="https://avatars.githubusercontent.com/u/52798353?u=1acc748d6b449f31cc9eadb48056ae5b005a94d2&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
   <a href="https://github.com/whitep4nth3r">whitep4nth3r</a>
 </td><td align="center">
