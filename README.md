@@ -16,18 +16,18 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Apps
 
-#### [stefanjudis/contentful-graphql-playground-app](https://github.com/stefanjudis/contentful-graphql-playground-app) (24 stars)
+#### [contentful/contentful-graphql-playground-app](https://github.com/contentful/contentful-graphql-playground-app) (23 stars)
 
 > Contentful App to integrate GraphQL Playground
 
 <details>
 <summary>Show screenshot</summary>
 <p>
-<img src="https://github.com/stefanjudis/contentful-graphql-playground-app/raw/main/screenshot.png">
+<img src="https://github.com/contentful/contentful-graphql-playground-app/raw/main/screenshot.png">
 </p>
 </details>
 
-#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (11 stars)
+#### [yn5/webhook-contentful-app](https://github.com/yn5/webhook-contentful-app) (22 stars)
 
 > A Contentful app extension to trigger one or multiple webhooks from the sidebar.
 
@@ -38,7 +38,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (22 stars)
+#### [mgschoen/contentful-reference-matrix-field-app](https://github.com/mgschoen/contentful-reference-matrix-field-app) (29 stars)
 
 > Contentful App that adds UI for a table-like list of references with other associated data.
 
@@ -49,7 +49,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (22 stars)
+#### [marcolink/cf-content-types-generator-app](https://github.com/marcolink/cf-content-types-generator-app) (60 stars)
 
 > A Contentful App to generate typescript types based on contentful's content types.
 
@@ -60,9 +60,20 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
+#### [flohealth/contentful-localization-matrix](https://github.com/flohealth/contentful-localization-matrix) (12 stars)
+
+> Contentful Localization Matrix: the Contentful App that extends localization observability of your content hierarchy.
+
+<details>
+<summary>Show screenshot</summary>
+<p>
+<img src="https://github.com/flohealth/contentful-localization-matrix/raw/main/screenshot.png">
+</p>
+</details>
+
 ## :star: Awesome Starters
 
-#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (34 stars)
+#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (47 stars)
 
 > thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
@@ -73,9 +84,9 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (81 stars)
+#### [whitep4nth3r/nextjs-contentful-blog-starter](https://github.com/whitep4nth3r/nextjs-contentful-blog-starter) (123 stars)
 
-> A Next.js and Contentful blog site starter to get you up and running quickly with your new blog site.
+> This starter repository is no longer maintained.
 
 <details>
 <summary>Show screenshot</summary>
@@ -84,7 +95,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [canhorn/Blazor.Contentful.Blog.Starter](https://github.com/canhorn/Blazor.Contentful.Blog.Starter) (15 stars)
+#### [canhorn/Blazor.Contentful.Blog.Starter](https://github.com/canhorn/Blazor.Contentful.Blog.Starter) (18 stars)
 
 > A ASP.NET Core Blazor and Contentful blog site starter to get you up and running quickly with your new blog site.
 
@@ -108,7 +119,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Utilities
 
-#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (54 stars)
+#### [watermarkchurch/contentful-schema-diff](https://github.com/watermarkchurch/contentful-schema-diff) (64 stars)
 
 > Command-line tool which generates Contentful migration files from the diff between two spaces or environments
 
@@ -119,7 +130,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (14 stars)
+#### [watermarkchurch/contentful-ts-generator](https://github.com/watermarkchurch/contentful-ts-generator) (21 stars)
 
 > A toolbox of typescript generators
 
@@ -130,7 +141,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-migration](https://github.com/watermarkchurch/contentful-migration) (4 stars)
+#### [watermarkchurch/contentful-migration](https://github.com/watermarkchurch/contentful-migration) (5 stars)
 
 > This fork of contentful-migration stores a history of your migrations in your space, and adds a "batch" mode to only runs the migrations that haven't yet been run.
 
@@ -141,7 +152,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [watermarkchurch/contentful-shell](https://github.com/watermarkchurch/contentful-shell) (5 stars)
+#### [watermarkchurch/contentful-shell](https://github.com/watermarkchurch/contentful-shell) (6 stars)
 
 > A shell script that wraps around the Contentful CLI providing some additional utilities and conveniences
 
@@ -152,7 +163,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (18 stars)
+#### [OriginalEXE/contentmodel.io-web](https://github.com/OriginalEXE/contentmodel.io-web) (25 stars)
 
 > contentmodel.io is a community-sourced, visual directory of Contentful content models
 
@@ -163,18 +174,18 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [ModiiMedia/contentful-hugo](https://github.com/ModiiMedia/contentful-hugo) (25 stars)
+#### [modiimedia/contentful-hugo](https://github.com/modiimedia/contentful-hugo) (38 stars)
 
 > A CLI tool that pulls data from Contentful and turns it into markdown files for Hugo and other static site generators. It also includes an express server that can be used for local development and content previews
 
 <details>
 <summary>Show screenshot</summary>
 <p>
-<img src="https://github.com/ModiiMedia/contentful-hugo/raw/master/screenshot.png">
+<img src="https://github.com/modiimedia/contentful-hugo/raw/master/screenshot.png">
 </p>
 </details>
 
-#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (3 stars)
+#### [mitya33/cfimp](https://github.com/mitya33/cfimp) (20 stars)
 
 > A simple but powerful spreadsheet-derived (CSV, TSV) data importer for the Contentful headless CMS. In so doing, it can also link items to references, assets or tags, and even publish items. It can also be used to update existing items rather than import new ones.
 
@@ -194,9 +205,9 @@ You want to contribute a project to share it with the community? That's great! P
 <table><tr>
 
 <td align="center">
-  <img src="https://avatars.githubusercontent.com/u/962099?u=6437e61e389e838bcbd37d315f81a6dffd0c824a&v=4&size=100" alt="Avatar of stefanjudis">
+  <img src="https://avatars.githubusercontent.com/u/472182?v=4&size=100" alt="Avatar of contentful">
   <br />
-  <a href="https://github.com/stefanjudis">stefanjudis</a>
+  <a href="https://github.com/contentful">contentful</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/1705585?u=07cd69b2e4cdf16fc8be59176a1ce11f4f073a13&v=4&size=100" alt="Avatar of yn5">
   <br />
@@ -210,7 +221,11 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/marcolink">marcolink</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/52798353?u=f3ae3625db671129518116190c27345143db0b86&v=4&size=100" alt="Avatar of whitep4nth3r">
+  <img src="https://avatars.githubusercontent.com/u/72540780?v=4&size=100" alt="Avatar of flohealth">
+  <br />
+  <a href="https://github.com/flohealth">flohealth</a>
+</td><td align="center">
+  <img src="https://avatars.githubusercontent.com/u/52798353?u=1acc748d6b449f31cc9eadb48056ae5b005a94d2&v=4&size=100" alt="Avatar of whitep4nth3r">
   <br />
   <a href="https://github.com/whitep4nth3r">whitep4nth3r</a>
 </td><td align="center">
@@ -218,7 +233,7 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/canhorn">canhorn</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/78412429?u=29d239bf2088dec77d676aaf5937167c83a2a35f&v=4&size=100" alt="Avatar of bcakmakoglu">
+  <img src="https://avatars.githubusercontent.com/u/78412429?u=4e98012ba717a410048bee88aa226e50f5548604&v=4&size=100" alt="Avatar of bcakmakoglu">
   <br />
   <a href="https://github.com/bcakmakoglu">bcakmakoglu</a>
 </td><td align="center">
@@ -226,13 +241,13 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/watermarkchurch">watermarkchurch</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/2056251?u=d1ea981f52fa7acd89dc2fc87040797db8e59887&v=4&size=100" alt="Avatar of OriginalEXE">
+  <img src="https://avatars.githubusercontent.com/u/2056251?u=587689dfb2bbd1bacfb3126dd75d925343fad119&v=4&size=100" alt="Avatar of OriginalEXE">
   <br />
   <a href="https://github.com/OriginalEXE">OriginalEXE</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/35595110?v=4&size=100" alt="Avatar of ModiiMedia">
+  <img src="https://avatars.githubusercontent.com/u/35595110?v=4&size=100" alt="Avatar of modiimedia">
   <br />
-  <a href="https://github.com/ModiiMedia">ModiiMedia</a>
+  <a href="https://github.com/modiimedia">modiimedia</a>
 </td><td align="center">
   <img src="https://avatars.githubusercontent.com/u/30174698?u=c26eec09282c610f2f6f087344425ca8b79314b2&v=4&size=100" alt="Avatar of mitya33">
   <br />
