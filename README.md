@@ -174,7 +174,7 @@ You want to contribute a project to share it with the community? That's great! P
 </p>
 </details>
 
-#### [modiimedia/contentful-hugo](https://github.com/modiimedia/contentful-hugo) (41 stars)
+#### [modiimedia/contentful-hugo](https://github.com/modiimedia/contentful-hugo) (42 stars)
 
 > A CLI tool that pulls data from Contentful and turns it into markdown files for Hugo and other static site generators. It also includes an express server that can be used for local development and content previews
 
@@ -233,7 +233,7 @@ You want to contribute a project to share it with the community? That's great! P
   <br />
   <a href="https://github.com/canhorn">canhorn</a>
 </td><td align="center">
-  <img src="https://avatars.githubusercontent.com/u/78412429?u=4e98012ba717a410048bee88aa226e50f5548604&v=4&size=100" alt="Avatar of bcakmakoglu">
+  <img src="https://avatars.githubusercontent.com/u/78412429?u=9d9de90cd17c3d4f8e5ce06c2adf5eaa961472d2&v=4&size=100" alt="Avatar of bcakmakoglu">
   <br />
   <a href="https://github.com/bcakmakoglu">bcakmakoglu</a>
 </td><td align="center">
