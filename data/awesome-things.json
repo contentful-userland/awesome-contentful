@@ -22,7 +22,8 @@
       "watermarkchurch/contentful-shell",
       "OriginalEXE/contentmodel.io-web",
       "ModiiMedia/contentful-hugo",
-      "mitya33/cfimp"
+      "mitya33/cfimp",
+      "labd/terraform-provider-contentful"
     ]
   }
 ]
