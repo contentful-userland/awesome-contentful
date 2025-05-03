@@ -19,6 +19,6 @@
   "homepage": "https://github.com/contentful-userland/awesome-contentful#readme",
   "dependencies": {
     "common-tags": "^1.8.0",
-    "got": "^11.5.2"
+    "got": "^12.5.3"
   }
 }
