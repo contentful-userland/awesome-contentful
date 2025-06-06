@@ -73,7 +73,7 @@ You want to contribute a project to share it with the community? That's great! P
 
 ## :star: Awesome Starters
 
-#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (49 stars)
+#### [whitep4nth3r/thingoftheday](https://github.com/whitep4nth3r/thingoftheday) (48 stars)
 
 > thingoftheday is a lightweight microblogging site powered by Contentful and vanilla HTML, CSS and JavaScript.
 
