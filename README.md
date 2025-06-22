@@ -67,7 +67,7 @@ You want to contribute a project to share it with the community? That's great! P
 <details>
 <summary>Show screenshot</summary>
 <p>
-<img src="https://github.com/flohealth/contentful-localization-matrix/raw/main/screenshot.png">
+<img src="https://github.com/flohealth/contentful-localization-matrix/raw/main/images/matrix.png">
 </p>
 </details>
 
